@@ -8,6 +8,6 @@ public class HelloWorld {
 
 	@RequestMapping("/")
 	public String viewHome() {
-		return "Welocme to jenkins workshop";
+		return "Welocme to jenkins workshop from vivek";
 	}
 }
